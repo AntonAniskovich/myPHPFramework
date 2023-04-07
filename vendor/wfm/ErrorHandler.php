@@ -30,13 +30,13 @@ class ErrorHandler
         }
         http_response_code($responce);
         if($responce == 404 && !DEBUG){
-            require WWWW . '/errors/404.php';
+            require WWW . '/errors/404.php';
             die;
         }
         if(DEBUG){
-            require WWWW . '/errors/development.php';
+            require WWW . '/errors/development.php';
         } else{
-            require WWWW . '/errors/production.php';
+            require WWW . '/errors/production.php';
         }
         die;
     }
