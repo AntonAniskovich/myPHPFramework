@@ -14,3 +14,15 @@
 ==================
 [2023-04-07 20:15:52] Текст ошибки: Возникла ошибка | Файл: C:\OpenServer\domains\new-ishop.loc\public\index.php | Строка: 9
 ==================
+[2023-04-07 22:43:40] Текст ошибки: Object of class wfm\Registry could not be converted to string | Файл: C:\OpenServer\domains\new-ishop.loc\public\index.php | Строка: 11
+==================
+[2023-04-07 22:43:40] Текст ошибки: Object of class wfm\Registry could not be converted to string | Файл: C:\OpenServer\domains\new-ishop.loc\public\index.php | Строка: 11
+==================
+[2023-04-10 16:34:39] Текст ошибки: Undefined array key "admin_prefix" | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 31
+==================
+[2023-04-10 16:34:39] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 34
+==================
+[2023-04-10 16:44:16] Текст ошибки: Контроллер app\controllers\adminControllerController не найден | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 41
+==================
+[2023-04-10 16:44:17] Текст ошибки: Контроллер app\controllers\adminControllerController не найден | Файл: C:\OpenServer\domains\new-ishop.loc\vendor\wfm\Router.php | Строка: 41
+==================
